@@ -1,2 +1,2 @@
-This is third file
-some new file
+This is my third file
+some newline
